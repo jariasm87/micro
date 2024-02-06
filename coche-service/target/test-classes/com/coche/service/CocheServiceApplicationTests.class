@@ -1,0 +1,13 @@
+[string]
+InstallerName=%1 
+ProductName=EaseUS Data Recovery Wizard
+RecommendProductName=Mobimover
+InstallNow=インストール
+InstallRecommend=%1インストール完了
+LicenseTps=後述の条項に同意するとします：%1
+LicenseClick=EaseUSソフト利用許諾契約の条項
+CustomInstall=インストール設定
+Languge=言語
+InstallationPath =インストール：
+AgreeExperience=カスタマーエクスペリエンス向上プログラム協力に同意する
+Downloading=ダウンロード中です。しばらくお待ちく
